@@ -5,7 +5,7 @@
 }
 
 .input-search {
-height: 50px;
+height: 20px;
 width: 50px;
 border-style: none;
 padding: 10px;
@@ -17,6 +17,9 @@ transition: all .5s ease-in-out;
 background-color: #22a6b3;
 padding-right: 40px;
 color: #fff;
+position: absolute;
+right: 140px;
+top: 45px;
 }
 
 .input-search::placeholder {
@@ -29,8 +32,34 @@ color: #fff;
 
 .btn-search {
     width: 50px;
+    height: 50px;
+    border-style: none;
+    font-size: 20px;
+    font-weight: bold;
+    outline: none;
+    cursor: pointer;
+    border-radius: 50%;
+    position: absolute;
+    right: 0px;
+    color: #ffffff;
+    background-color: transparent;
+    pointer-events: painted;
     
 }
+
+
+.btn-search:focus ~ .input-search {
+    width: 300px;
+    border-radius: 0px;
+    background-color: transparent;
+    border-bottom: 1px solid rgba(255,255,255,.5);
+    transition: all 500ms cubic-bezier(0, 0.110, 0.35, 2);
+}
+
+
+
+
+
 
 
 
@@ -201,4 +230,74 @@ button {
     width: 10%;
     margin: 10px;
     right: 90px;
+}
+
+
+
+.btn1 {
+    position: absolute;
+    top: 130px;
+    left: 10px;
+    padding: 10px;
+}
+.btn2 {
+    position: absolute;
+    top: 130px;
+    left: 200px;
+    padding: 10px;
+
+}
+.btn3 {
+position: absolute;
+    top: 130px;
+    left: 400px;
+    padding: 10px;
+}
+.btn4 {
+position: absolute;
+    top: 130px;
+    left: 600px;
+    padding: 10px;
+}
+.btn5 {
+    position: absolute;
+    top: 130px;
+    left: 800px;
+    padding: 10px;
+}
+.btn6 {
+   position: absolute;
+    top: 130px; 
+    left: 1000px;
+    padding: 10px;
+}
+.btn7 {
+    position: absolute;
+    top: 130px;
+    left: 1200px;
+    padding: 10px;
+}
+.btn8 {
+    position: absolute;
+    top: 130px;
+    left: 1400px;
+    padding: 10px;
+}
+.btn9 {
+    position: absolute;
+    top: 130px;
+    left: 1600px;
+    padding: 10px;
+}
+.btn10 {
+    position: absolute;
+    top: 130px;
+    left: 1800px;
+    padding: 10px;
+}
+.btn11 {
+    position: absolute;
+    top: 130px;
+    left: 2000px;
+    padding: 10px;
 }

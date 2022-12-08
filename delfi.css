@@ -122,9 +122,9 @@ label div:last-child {
 
 button {
     border: none;
-    padding: 45px;
+    padding: 35px;
     text-decoration: none;
-    font-size: 15px;
+    font-size: 16px;
     margin: 4px;
     background-color: white;
     top: 50%;
@@ -143,19 +143,20 @@ button {
 .button9 {
     background-color: blue;
     top: 50%;
-    left: 50%;
+    left: 100px;
     padding: 10px 10px 10px 10px;
     cursor: pointer;
     border-radius: 100px;
     text-align: center;
     margin: 40px;
     color: white;
+
 }
 
 .button10 {
     background-color: whitesmoke;
     top: 50%;
-    left: 50%;
+    left: 100px;
     padding: 10px 10px 10px 10px;
     cursor: pointer;
     border-radius: 100px;
@@ -165,14 +166,16 @@ button {
 }
 
 .div1 {
+    display: flex;
     background-color: white;
-    width: 300px;
-    border: 2px solid black;
-    padding: 200px;
+    width: 50px;
+    border: 0px solid black;
+    padding: 50px;
     margin: 40px;
     position: absolute;
-    top: 138px;
+    top: 200px;
     left: 230px;
+    justify-content: center;
 }
 
 .div2 {
@@ -183,7 +186,7 @@ button {
     margin: 40px;
     float: right;
     position: absolute;
-    top: 138px;
+    top: 200px;
     right: 230px;
     font-size: 18px;
 }
@@ -193,10 +196,10 @@ button {
     width: 50px;
     padding: 80px;
     position: absolute;
-    top: 64%;
+    top: 87%;
     width: 9%;
     margin: 10px;
-    right: 1365px;
+    right: 1345px;
 }
 
 .div4 {
@@ -204,10 +207,10 @@ button {
     width: 50px;
     padding: 80px;
     position: absolute;
-    top: 64%;
+    top: 87%;
     width: 9%;
     margin: 10px;
-    right: 1000px;
+    right: 980px;
 }
 
 .div5 {
@@ -215,7 +218,7 @@ button {
     width: 50px;
     padding: 80px;
     position: absolute;
-    top: 64%;
+    top: 87%;
     width: 9%;
     margin: 10px;
     right: 620px;
@@ -226,7 +229,7 @@ button {
     width: 50px;
     padding: 80px;
     position: absolute;
-    top: 64%;
+    top: 87%;
     width: 9%;
     margin: 10px;
     right: 260px;
@@ -236,84 +239,100 @@ button {
 
 .btn1 {
     position: absolute;
-    top: 130px;
-    left: 150px;
+    top: 150px;
+    left: 260px;
     padding: 10px;
+    color: grey;
 }
 .btn2 {
     position: absolute;
-    top: 130px;
-    left: 250px;
+    top: 150px;
+    left: 430px;
     padding: 10px;
+    color: grey;
 
 }
 .btn3 {
 position: absolute;
-    top: 130px;
-    left: 500px;
+    top: 150px;
+    left: 600px;
     padding: 10px;
+    color: grey;
 }
 .btn4 {
 position: absolute;
-    top: 130px;
-    left: 600px;
+    top: 150px;
+    left: 730px;
     padding: 10px;
+    color: grey;
 }
 .btn5 {
     position: absolute;
-    top: 130px;
-    left: 750px;
+    top: 150px;
+    left: 840px;
     padding: 10px;
+    color: grey;
 }
 .btn6 {
    position: absolute;
-    top: 130px; 
-    left: 870px;
+    top: 150px; 
+    left: 950px;
     padding: 10px;
+    color: grey;
 }
 .btn7 {
     position: absolute;
-    top: 130px;
-    left: 1040px;
+    top: 150px;
+    left: 1090px;
     padding: 10px;
+    color: grey;
 }
 .btn8 {
     position: absolute;
-    top: 130px;
-    left: 1150px;
+    top: 150px;
+    left: 1200px;
     padding: 10px;
+    color: grey;
 }
 .btn9 {
     position: absolute;
-    top: 130px;
-    left: 1320px;
+    top: 150px;
+    left: 1350px;
     padding: 10px;
+    color: grey;
 }
 .btn10 {
     position: absolute;
-    top: 130px;
-    left: 1470px;
+    top: 150px;
+    left: 1490px;
     padding: 10px;
+    color: grey;
 }
 .btn11 {
     position: absolute;
-    top: 130px;
+    top: 150px;
     left: 1630px;
     padding: 10px;
+    color: grey;
 }
 
 .hr1 {
 position: relative;
-right: 170px;
+right: 110px;
 }
 
 a {
     position: relative;
-    top: 40px;
+    top: 50px;
     left: 10px;
 }
 
 #page-wrap {
-width: 1500px;
+width: 1700px;
 margin: 0 auto;
+}
+
+img {
+    width: 700px;
+    
 }

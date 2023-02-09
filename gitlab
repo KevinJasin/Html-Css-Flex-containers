@@ -31,5 +31,19 @@
         <img src="https://about.gitlab.com/_nuxt/image/727d66.svg" alt="" loading="lazy" data-v-0390c57a="" data-v-4179fdaa="" class="img2">
         </div>
     </div>
+    <div class="div7">
+        <h3>DevSecOps platform</h3>
+        <img src="https://about.gitlab.com/_nuxt/image/f94c74.png" alt="Brand image of GitLab roadmap" data-v-b051b3e0="" class="img3">
+    </div>
+    <div class="div8">
+        <h4>Trusted By</h4>
+        <img src="https://about.gitlab.com/_nuxt/image/c26a4c.svg" alt="T-Mobile logo" loading="lazy" class="img4" data-v-054cebed="">
+        <img src="https://about.gitlab.com/_nuxt/image/c2726e.svg" alt="Goldman Sachs logo" loading="lazy" class="img4" data-v-054cebed="">
+        <img src="https://about.gitlab.com/_nuxt/image/49855e.svg" alt="Cloud Native logo" loading="lazy" class="img4" data-v-054cebed="">
+        <img src="https://about.gitlab.com/_nuxt/image/91a361.svg" alt="Siemens logo" loading="lazy" class="img4" data-v-054cebed="">
+        <img src="https://about.gitlab.com/_nuxt/image/db7599.svg" alt="Nvidia logo" loading="lazy" class="img4" data-v-054cebed="">
+        <img src="https://about.gitlab.com/_nuxt/image/3c19a7.svg" alt="UBS logo" loading="lazy" class="img4" data-v-054cebed="">
+
+    </div>
 </body>
 </html>

@@ -43,7 +43,13 @@
         <img src="https://about.gitlab.com/_nuxt/image/91a361.svg" alt="Siemens logo" loading="lazy" class="img4" data-v-054cebed="">
         <img src="https://about.gitlab.com/_nuxt/image/db7599.svg" alt="Nvidia logo" loading="lazy" class="img4" data-v-054cebed="">
         <img src="https://about.gitlab.com/_nuxt/image/3c19a7.svg" alt="UBS logo" loading="lazy" class="img4" data-v-054cebed="">
-
+    </div>
+    <div class="background-img">
+        
     </div>
 </body>
 </html>
+
+
+
+

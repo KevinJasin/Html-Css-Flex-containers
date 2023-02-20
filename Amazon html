@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="div1">
+    <img class="amazon" src="https://companieslogo.com/img/orig/AMZN_BIG.D-8fb0be81.png?t=1632523695" alt="Amazon logo">
+    <h1>Delivery to</h1>
+    <h2>Estonia</h2>
+    <img class="icon" src="https://i.pinimg.com/474x/18/21/66/182166af501f2c7a7014d0ccbb22547c.jpg" alt="icon">
+    <form>
+      <div class="search-container">
+        <div class="select-container">
+          <select>
+            <option value="all">All Categories</option>
+            <option value="books">Books</option>
+            <option value="electronics">Electronics</option>
+            <option value="clothing">Clothing</option>
+          </select>
+          <i class="fa fa-caret-down"></i>
+        </div>
+        <div class="search-icon-container">
+          <i class="fa fa-search"></i>
+        </div>
+        <input type="text" placeholder="Search products, brands, categories">
+        <div class="mic-container">
+          <i class="fa fa-microphone"></i>
+        </div>
+      </div>
+      <button type="submit" class="search-button">Go</button>
+    </form>
+    
+    
+  </div>
+</body>
+</html>

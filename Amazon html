@@ -31,10 +31,19 @@
         <div class="mic-container">
           <i class="fa fa-microphone"></i>
         </div>
+        <button type="submit" class="search-button">Go</button>
       </div>
-      <button type="submit" class="search-button">Go</button>
     </form>
-    
+    <img class="flag" src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="flag">
+    <h3>EN</h3> 
+    <p>Down arrow: <i class="arrow down"></i></p>
+    <h4>Hello, sign in </h4>  
+    <h5>Account & Lists</h5> 
+    <p>Down arrow: <i class="arrow2 down"></i></p>
+    <h6>Returns</h6>
+    <h7>&Orders</h7>
+    <img class="shopping-cart" src="https://thumbs.dreamstime.com/b/shopping-icon-shopping-cart-icon-dark-background-simple-vector-icon-shopping-icon-shopping-cart-icon-dark-background-116659167.jpg" alt="shopping-cart">
+    <h8>Cart</h8>
     
   </div>
 </body>

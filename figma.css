@@ -1,20 +1,22 @@
 body {
-    background-color: black;
-
+background-color: black;
 }
 
 h1 {
-    color: white;
-    font-size: medium;
-}
-
-div {
-    border: 10px solid red;
-    border-color: aliceblue;
+position: relative;
+left: 8px;
+top: 87px;
+font-size: 22px;
+color: white;
 }
 
 p {
-    color: white;
-    font-size: large;
-    padding-right: 20px;
+    font-size: 22px;
+    color: #FFFFFF;
+    text-align: right;
+
+}
+
+.banner {
+    
 }

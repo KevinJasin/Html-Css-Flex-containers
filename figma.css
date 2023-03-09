@@ -11,9 +11,12 @@ color: white;
 }
 
 p {
+    list-style: none;
+    display: inline-block;
+    margin: 0 20px;
     font-size: 22px;
     color: #FFFFFF;
-    text-align: right;
+    text-align: left;
 
 }
 

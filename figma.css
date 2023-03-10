@@ -1,25 +1,23 @@
 body {
-background-color: black;
-}
+    background-color: black;
 
-h1 {
-position: relative;
-left: 8px;
-top: 87px;
-font-size: 22px;
-color: white;
-}
-
-p {
-    list-style: none;
-    display: inline-block;
-    margin: 0 20px;
-    font-size: 22px;
-    color: #FFFFFF;
-    text-align: left;
-
-}
-
-.banner {
+    }
     
-}
+    h1 {
+    position: relative;
+    left: 8px;
+    top: 87px;
+    font-size: 22px;
+    color: white;
+    }
+    
+    p {
+        margin: 0 20px;
+        font-size: 22px;
+        color: #FFFFFF;
+        margin-left: 1700px;
+    }
+    
+    .banner {
+        
+    }

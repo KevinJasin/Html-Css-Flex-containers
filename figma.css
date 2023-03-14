@@ -1,0 +1,155 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+  color: #ffffff;
+  background-color: #000000;
+}
+
+header {
+  margin: 95px 0 171px 90px;
+}
+
+header nav ul a {
+  display: flex;
+  background-color: #000000;
+}
+
+.back {
+  text-decoration: none;
+}
+
+.back_text {
+  font-size: 31px;
+  padding-left: 20px;
+  color: #ffffff;
+}
+
+.camera {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 283px;
+}
+
+.camera h1 {
+  max-width: 847px;
+  height: 154px;
+  font-weight: 400;
+  font-size: 80px;
+  line-height: 77px;
+  text-align: center;
+  margin: 0 auto 156px;
+}
+
+.camera img {
+  margin: 0 auto 102px;
+}
+
+.camera p {
+  max-width: 1034px;
+  font-size: 30px;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.products {
+  display: flex;
+  justify-content: center;
+  margin: 0 auto 392px;
+}
+
+.products p {
+  max-width: 438px;
+}
+
+.amazon {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin: 0 86px 0 125px;
+}
+
+.amazon p {
+  align-self: flex-end;
+  font-size: 30px;
+  line-height: 29px;
+  text-align: right;
+
+}
+
+.enchen {
+  display: flex;
+  flex-direction: column;
+  gap: 269px;
+}
+
+.enchen p {
+  font-size: 30px;
+}
+
+.review {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 366px;
+}
+
+.review h1 {
+  font-weight: 400;
+  font-size: 74px;
+  margin-bottom: 90px;
+}
+
+.review h2 {
+  font-weight: 400;
+  font-size: 58px;
+  line-height: 56px;
+  margin-top: 80px;
+  margin-bottom: 34px;
+}
+
+.review p {
+  font-size: 30px;
+}
+
+.review span {
+  font-size: 21px;
+}
+
+.review_div {
+  display: flex;
+  min-height: 475px;
+  margin: 0 141px 46px 173px;
+}
+
+.text_div {
+  max-width: 748px;
+  margin-left: 86px;
+}
+
+footer {
+  display: flex;
+  justify-content: space-between;
+  background-color: #ffffff;
+  padding: 22px 90px 22px 100px;
+}
+
+.left p {
+  font-weight: 600;
+  font-size: 20px;
+  color: #000000;
+}
+
+.right ul {
+  display: flex;
+  gap: 98px;
+}
+
+.right ul li {
+  font-size: 20px;
+  color: #000000;
+  list-style-type: none;
+}

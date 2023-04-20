@@ -1,0 +1,9 @@
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 300%;
+}
+
+p {
+    padding: 30px;
+    margin: 50px;
+}

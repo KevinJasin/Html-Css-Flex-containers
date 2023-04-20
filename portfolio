@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body style="background-color: aliceblue;">
+    <h1 style="background-color: antiquewhite;">This is heading</h1>
+    <p><mark>This is </mark><del>portfolio</del>.</p>
+    <hr>
+    <a href="https://github.com/">This is my Github</a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png" alt="Github" width="104" height="142">
+    <pre>
+        <ins>Hello my name is Kevin Jašin, and i create portfolio.</ins>
+    </pre>
+    <b><sup>I dont</sup>  know what i do.</b>
+    <strong><abbr title="PHM">Please help me.</abbr></strong>
+    <i style="color: aqua;">HAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.</i>
+    <em style="border: 2px solid tomato;">HEEEEEEEEEEEEEEEEEELP.</em>
+    <small><q>Im joking.</q></small>
+    <address>
+        Developer Kevin Jašin<br>
+        Visit my page Github.com<br>
+        Kuressaare Ametikool<br>
+        Estonia<br>
+    </address>
+    <bdo dir="rtl">This web is thrash what i do omg.</bdo>
+    <button onclick="document.location= >PLZ click</button>
+</body>
+</html>

@@ -1,9 +1,83 @@
 h1 {
-    font-family: 'Courier New', Courier, monospace;
-    font-size: 300%;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 300%;
 }
 
 p {
-    padding: 30px;
-    margin: 50px;
+  padding: 30px;
+  margin: 50px;
+}
+
+a {
+  text-decoration: none;
+  text-align: center;
+  display: inline-block;
+}
+
+body {
+  background-image: url('https://i.natgeofe.com/n/c199c917-f357-45b2-9940-77784ed98d2d/why-is-america-running-out-of-water_2x1.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  border-radius: 10px;
+}
+
+th, td {
+  background-color: aquamarine;
+  border-style: dotted;
+  border-color: azure;
+  padding: 15px;
+  padding-top: 10px;
+  padding-bottom: 20px;
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+th {
+  text-align: left;
+}
+
+table {
+  border-spacing: 30px;
+}
+
+td:nth-child(even), th:nth-child(even) {
+  background-color: beige;
+}
+
+tr {
+  border-bottom: 1px solid #ddd;
+}
+
+tr:hover {
+  background-color: bisque;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: blanchedalmond;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: blue;
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: blueviolet;
 }

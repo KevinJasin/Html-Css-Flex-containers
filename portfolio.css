@@ -1,4 +1,4 @@
-/* Global styles */
+
 
 * {
 	box-sizing: border-box;
@@ -33,8 +33,6 @@ body {
 	max-width: calc(50% - 20px);
 	padding: 0 10px;
 }
-
-/* Header */
 
 header {
 	background-color: #1E90FF;
@@ -81,8 +79,6 @@ nav li a:hover {
 	color: #1E90FF;
 }
 
-/* About section */
-
 #about {
 	background-color: #fff;
 	color: #333;
@@ -104,8 +100,6 @@ nav li a:hover {
 	font-size: 18px;
 	line-height: 1.5;
 }
-
-/* Projects section */
 
 #projects {
 	background-color: #F5F5F5;
@@ -149,8 +143,6 @@ nav li a:hover {
 	line-height: 1.5;
 }
 
-/* Contact Me section */
-
 #contact {
 	background-color: #1E90FF;
 	color: #fff;
@@ -177,5 +169,3 @@ nav li a:hover {
 	border: none;
 	border-radius: 5px;
 	margin-bottom: 20px;
-
-    

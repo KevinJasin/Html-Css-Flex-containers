@@ -1,83 +1,181 @@
-h1 {
-  font-family: 'Courier New', Courier, monospace;
-  font-size: 300%;
-}
+/* Global styles */
 
-p {
-  padding: 30px;
-  margin: 50px;
-}
-
-a {
-  text-decoration: none;
-  text-align: center;
-  display: inline-block;
+* {
+	box-sizing: border-box;
 }
 
 body {
-  background-image: url('https://i.natgeofe.com/n/c199c917-f357-45b2-9940-77784ed98d2d/why-is-america-running-out-of-water_2x1.jpg');
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
+	font-family: 'Open Sans', sans-serif;
+	margin: 0;
+	padding: 0;
 }
 
-table, th, td {
-  border: 1px solid black;
-  border-collapse: collapse;
-  border-radius: 10px;
+.container {
+	max-width: 960px;
+	margin: 0 auto;
+	padding: 0 20px;
 }
 
-th, td {
-  background-color: aquamarine;
-  border-style: dotted;
-  border-color: azure;
-  padding: 15px;
-  padding-top: 10px;
-  padding-bottom: 20px;
-  padding-left: 30px;
-  padding-right: 40px;
+.row {
+	display: flex;
+	flex-wrap: wrap;
+	margin: 0 -10px;
 }
 
-th {
-  text-align: left;
+.col-4 {
+	flex: 0 0 calc(33.33% - 20px);
+	max-width: calc(33.33% - 20px);
+	padding: 0 10px;
 }
 
-table {
-  border-spacing: 30px;
+.col-6 {
+	flex: 0 0 calc(50% - 20px);
+	max-width: calc(50% - 20px);
+	padding: 0 10px;
 }
 
-td:nth-child(even), th:nth-child(even) {
-  background-color: beige;
+/* Header */
+
+header {
+	background-color: #1E90FF;
+	color: #fff;
+	padding: 20px 0;
 }
 
-tr {
-  border-bottom: 1px solid #ddd;
+header h1 {
+	margin: 0;
+	padding: 0;
+	font-size: 36px;
+	font-weight: 600;
+	float: left;
 }
 
-tr:hover {
-  background-color: bisque;
+h1 {
+    color: rgb(51, 51, 149);
 }
 
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: blanchedalmond;
+nav {
+	float: right;
 }
 
-li {
-  float: left;
+nav ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
 }
 
-li a {
-  display: block;
-  color: blue;
-  text-align: center;
-  padding: 16px;
-  text-decoration: none;
+nav li {
+	float: left;
+	margin-left: 20px;
 }
 
-li a:hover {
-  background-color: blueviolet;
+nav li a {
+	color: #fff;
+	text-decoration: none;
+	font-size: 18px;
+	font-weight: 600;
+	text-transform: uppercase;
 }
+
+nav li a:hover {
+	color: #1E90FF;
+}
+
+/* About section */
+
+#about {
+	background-color: #fff;
+	color: #333;
+	padding: 100px 0;
+}
+
+#about h2 {
+	font-size: 36px;
+	font-weight: 600;
+	margin-bottom: 30px;
+}
+
+#about img {
+	max-width: 100%;
+	margin-bottom: 30px;
+}
+
+#about p {
+	font-size: 18px;
+	line-height: 1.5;
+}
+
+/* Projects section */
+
+#projects {
+	background-color: #F5F5F5;
+	padding: 100px 0;
+}
+
+#projects h2 {
+	font-size: 36px;
+	font-weight: 600;
+	margin-bottom: 30px;
+	text-align: center;
+}
+
+.project {
+	background-color: #fff;
+	padding: 30px;
+	margin-bottom: 30px;
+	border-radius: 10px;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+	transition: box-shadow 0.3s ease-in-out;
+}
+
+.project:hover {
+	box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+}
+
+.project img {
+	max-width: 100%;
+	margin-bottom: 20px;
+	border-radius: 5px;
+}
+
+.project h3 {
+	font-size: 24px;
+	font-weight: 600;
+	margin-bottom: 10px;
+}
+
+.project p {
+	font-size: 18px;
+	line-height: 1.5;
+}
+
+/* Contact Me section */
+
+#contact {
+	background-color: #1E90FF;
+	color: #fff;
+	padding: 100px 0;
+}
+
+#contact h2 {
+	font-size: 36px;
+	font-weight: 600;
+	margin-bottom: 30px;
+	text-align: center;
+}
+
+.contact-form {
+	max-width: 600px;
+	margin: 0 auto;
+}
+
+.contact-form input,
+.contact-form textarea {
+	display: block;
+	width: 100%;
+	padding: 10px;
+	border: none;
+	border-radius: 5px;
+	margin-bottom: 20px;
+
+    

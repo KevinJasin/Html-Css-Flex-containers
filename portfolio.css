@@ -131,3 +131,27 @@ nav li a:hover {
 	font-size: 18px;
 	line-height: 1.5;
 }
+
+.info {
+    background-color: #fff;
+	padding: 30px;
+	margin-bottom: 30px;
+	border-radius: 10px;
+	box-shadow:10px rgba(0, 0, 0, 0.1);
+	transition: box-shadow 0.3s ease-in-out;
+}
+
+.info:hover {
+    box-shadow:20px rgba(0, 0, 0, 0.2);
+}
+
+.info h3 {
+    font-size: 24px;
+	font-weight: 600;
+	margin-bottom: 10px;
+}
+
+.info p {
+    font-size: 18px;
+	line-height: 1.5;
+}

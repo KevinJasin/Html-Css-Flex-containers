@@ -12,32 +12,32 @@ body {
 
 .container {
 	max-width: 960px;
-	margin: 0 auto;
-	padding: 0 20px;
+	margin:auto;
+	padding:20px;
 }
 
 .row {
 	display: flex;
 	flex-wrap: wrap;
-	margin: 0 -10px;
+	margin:10px;
 }
 
 .col-4 {
-	flex: 0 0 calc(33.33% - 20px);
-	max-width: calc(33.33% - 20px);
-	padding: 0 10px;
+	flex:calc(33.33% - 20px);
+	max-width:calc(33.33% - 20px);
+	padding:10px;
 }
 
 .col-6 {
-	flex: 0 0 calc(50% - 20px);
+	flex:calc(50% - 20px);
 	max-width: calc(50% - 20px);
-	padding: 0 10px;
+	padding:10px;
 }
 
 header {
 	background-color: #1E90FF;
 	color: #fff;
-	padding: 20px 0;
+	padding: 20px;
 }
 
 header h1 {
@@ -82,7 +82,7 @@ nav li a:hover {
 #about {
 	background-color: #fff;
 	color: #333;
-	padding: 100px 0;
+	padding: 100px;
 }
 
 #about h2 {
@@ -98,7 +98,7 @@ nav li a:hover {
 
 #projects {
 	background-color: #F5F5F5;
-	padding: 100px 0;
+	padding: 100px;
 }
 
 #projects h2 {
@@ -113,12 +113,12 @@ nav li a:hover {
 	padding: 30px;
 	margin-bottom: 30px;
 	border-radius: 10px;
-	box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+	box-shadow:10px rgba(0, 0, 0, 0.1);
 	transition: box-shadow 0.3s ease-in-out;
 }
 
 .project:hover {
-	box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+	box-shadow:20px rgba(0, 0, 0, 0.2);
 }
 
 .project h3 {

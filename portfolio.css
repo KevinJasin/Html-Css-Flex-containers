@@ -91,11 +91,6 @@ nav li a:hover {
 	margin-bottom: 30px;
 }
 
-#about img {
-	max-width: 100%;
-	margin-bottom: 30px;
-}
-
 #about p {
 	font-size: 18px;
 	line-height: 1.5;
@@ -126,12 +121,6 @@ nav li a:hover {
 	box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
 }
 
-.project img {
-	max-width: 100%;
-	margin-bottom: 20px;
-	border-radius: 5px;
-}
-
 .project h3 {
 	font-size: 24px;
 	font-weight: 600;
@@ -142,30 +131,3 @@ nav li a:hover {
 	font-size: 18px;
 	line-height: 1.5;
 }
-
-#contact {
-	background-color: #1E90FF;
-	color: #fff;
-	padding: 100px 0;
-}
-
-#contact h2 {
-	font-size: 36px;
-	font-weight: 600;
-	margin-bottom: 30px;
-	text-align: center;
-}
-
-.contact-form {
-	max-width: 600px;
-	margin: 0 auto;
-}
-
-.contact-form input,
-.contact-form textarea {
-	display: block;
-	width: 100%;
-	padding: 10px;
-	border: none;
-	border-radius: 5px;
-	margin-bottom: 20px;

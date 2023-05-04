@@ -14,6 +14,11 @@ function calculate() {
     freeHours = 168 - totalHours;
   
     const resultElement = document.getElementById("result");
-    resultElement.innerHTML = `You have ${freeHours} hours free this week!`;
+  
+    if (totalHours > 168) {
+      resultElement.innerHTML = `You have exceeded the total number of hours in a week!`;
+    } else {
+      resultElement.innerHTML = `You have ${freeHours} hours free this week!`;
+    }
   }
   

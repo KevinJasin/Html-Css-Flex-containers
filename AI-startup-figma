@@ -1,0 +1,1303 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI tool</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body>
+    <div class="items-center bg-gray-950 flex flex-col">
+        <div
+          class="justify-between items-start self-center flex w-full max-w-screen-xl gap-5 mt-4 px-5 max-md:max-w-full max-md:flex-wrap"
+        >
+          <div class="text-2xl font-semibold leading-8 bg-clip-text my-auto text-indigo-600">
+            AI startup
+          </div>
+          <div
+            class="items-start self-stretch flex w-[422px] max-w-full justify-between gap-5 max-md:flex-wrap max-md:justify-center"
+          >
+            <div class="text-white text-sm leading-5 self-center my-auto">About</div>
+            <div class="text-white text-sm leading-5 self-center my-auto">
+              Features
+            </div>
+            <div class="text-white text-sm leading-5 self-center my-auto">
+              Pricing
+            </div>
+            <div
+              class="text-white text-xs font-medium leading-4 self-stretch whitespace-nowrap justify-center items-center bg-indigo-600 w-[122px] max-w-full px-5 py-4 rounded-[50px]"
+            >
+              GET STARTED
+            </div>
+          </div>
+        </div>
+        <div
+          class="flex-col items-center self-stretch overflow-hidden relative flex min-h-[888px] w-full mt-4 p-20 max-md:max-w-full max-md:px-5"
+        >
+          <img
+            loading="lazy"
+            srcset="..."
+            class="absolute z-[-1] h-full w-full"
+          />
+          <div
+            class="relative items-start self-stretch flex flex-col max-md:max-w-full"
+          >
+            <div class="items-center self-stretch flex flex-col max-md:max-w-full">
+              <div
+                class="self-stretch text-center text-7xl font-semibold leading-[88px] bg-clip-text max-md:max-w-full max-md:text-4xl text-indigo-600"
+              >
+                AI startup tool
+              </div>
+              <div
+                class="self-stretch text-fuchsia-500 text-center text-2xl font-bold leading-8 uppercase mt-6 max-md:max-w-full"
+              >
+                Elevate Every Aspect
+              </div>
+            </div>
+            <div class="aspect-[1.12] object-contain object-center w-[586px] overflow-hidden self-center max-w-full grow mt-16 max-md:mt-10">
+            <img src="Image.png" alt="image">
+            </div>
+          </div>
+        </div>
+        <div
+          class="items-center self-center flex w-full max-w-screen-xl flex-col mt-40 max-md:max-w-full max-md:mt-10"
+        >
+          <div class="items-center self-stretch flex flex-col px-5 max-md:max-w-full">
+            <div
+              class="self-stretch text-center text-6xl font-semibold leading-[61.6px] bg-clip-text -mr-5 max-md:max-w-full max-md:text-4xl text-indigo-600"
+            >
+              Full Power Personal Branding
+            </div>
+            <div
+              class="self-stretch text-white text-center text-3xl font-medium leading-10 -mr-5 max-md:max-w-full"
+            >
+              revolutionizing businesses with seamless AI integration
+            </div>
+          </div>
+          <div class="self-stretch mt-36 pr-3 max-md:max-w-full max-md:mt-10">
+            <div class="gap-5 flex max-md:flex-col max-md:items-stretch max-md:gap-0">
+              <div
+                class="flex flex-col items-stretch w-[58%] max-md:w-full max-md:ml-0"
+              >
+                <div class="mr-0 mt-2 pr-4 max-md:max-w-full">
+                  <div
+                    class="gap-5 flex max-md:flex-col max-md:items-stretch max-md:gap-0"
+                  >
+                    <div
+                      class="flex flex-col items-stretch w-[61%] max-md:w-full max-md:ml-0"
+                    >
+                      <div
+                        class="justify-center items-start self-stretch z-[1] flex mr-0 flex-col mt-7 max-md:max-w-full"
+                      >
+                        <div
+                          class="self-stretch text-white text-6xl font-bold leading-[67.2px] max-md:max-w-full max-md:text-4xl"
+                        >
+                          Title Copy Goes Here Be Awesome
+                        </div>
+                        <div
+                          class="self-stretch text-white text-base leading-6 mt-6 max-md:max-w-full"
+                        >
+                          Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                          Suspendisse varius enim in eros elementum tristique. Duis
+                          cursus, mi quis viverra ornare, eros dolor interdum nulla,
+                          ut commodo diam libero vitae erat.
+                        </div>
+                      </div>
+                    </div>
+                    <div
+                      class="flex flex-col items-stretch w-[39%] ml-5 max-md:w-full max-md:ml-0"
+                    >
+                      
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                class=""
+              >
+                <div
+                  class=" bg-gray-900  flex-col   p-8  "
+                >
+                  <div
+                    class="  flex justify-between gap-5   "
+                  >
+                    <img
+                      loading="lazy"
+                      src="https://cdn.builder.io/api/v1/image/assets/TEMP/6ea50889-de0d-4e9f-8ac5-342adca10b9f?"
+                      class="aspect-square object-contain object-center w-[52px] "
+                    />
+                    <div
+                      class="items-start flex flex-col grow shrink-0 basis-auto self-start "
+                    >
+                      <div class="text-white text-2xl leading-7 self-stretch   ">
+                        Tailoring posts
+                      </div>
+                      <div
+                        class="text-white text-lg font-light leading-6 self-stretch mt-2"
+                      >
+                        for various social networks to maximize exposure and audience
+                        engagement
+                      </div>
+                    </div>
+                  </div>
+                  <div
+                    class="opacity-[0.12] bg-white self-stretch w-full h-px mt-8 max-md:max-w-full"
+                  ></div>
+                  <div
+                    class="items-start self-stretch flex justify-between gap-5 mt-8 max-md:max-w-full max-md:flex-wrap"
+                  >
+                    <img
+                      loading="lazy"
+                      src="https://cdn.builder.io/api/v1/image/assets/TEMP/bedf8906-3f51-4db1-a203-0d8fb48f4a48?"
+                      class="aspect-square object-contain object-center w-[52px] overflow-hidden max-w-full self-start"
+                    />
+                    <div
+                      class="items-start flex flex-col grow shrink-0 basis-auto self-start"
+                    >
+                      <div class="text-white text-2xl leading-7 self-stretch">
+                        Auto-engaging
+                      </div>
+                      <div
+                        class="text-white text-base font-light leading-6 self-stretch mt-2"
+                      >
+                        with your audience to strengthen your online presence and
+                        profile score
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="self-stretch mt-36 px-5 max-md:max-w-full max-md:mt-10">
+            <div class="gap-5 flex max-md:flex-col max-md:items-stretch max-md:gap-0">
+              <div
+                class="flex flex-col items-stretch w-[42%] h-[40%] max-md:w-full max-md:ml-0"
+              >
+                <div
+                  class="items-start bg-gray-900 flex mr-0 grow flex-col p-8 rounded-2xl max-md:max-w-full max-md:px-5"
+                >
+                  <div
+                    class="items-start self-stretch flex justify-between gap-5 max-md:max-w-full max-md:flex-wrap"
+                  >
+                    <img
+                      loading="lazy"
+                      src="https://cdn.builder.io/api/v1/image/assets/TEMP/775d24c8-e865-4c8d-9709-186cfe3ce687?"
+                      class="aspect-square object-contain object-center w-[52px] max-w-full self-start"
+                    />
+                    <div
+                      class="items-start flex flex-col grow shrink-0 basis-auto self-start"
+                    >
+                      <div class="text-white text-2xl leading-7 self-stretch">
+                        Tailoring posts
+                      </div>
+                      <div
+                        class="text-white text-lg font-light leading-6 self-stretch mt-2"
+                      >
+                        for various social networks to maximize exposure and audience
+                        engagement
+                      </div>
+                    </div>
+                  </div>
+                  <div
+                    class="opacity-[0.12] bg-white self-stretch w-full h-px mt-8 max-md:max-w-full"
+                  ></div>
+                  <div
+                    class="items-start self-stretch flex justify-between gap-5 mt-8 max-md:max-w-full max-md:flex-wrap"
+                  >
+                    <img
+                      loading="lazy"
+                      src="https://cdn.builder.io/api/v1/image/assets/TEMP/bf08d141-34e4-47a0-b79b-f519a27f80bd?"
+                      class="aspect-square object-contain object-center w-[52px]  max-w-full self-start"
+                    />
+                    <div
+                      class="items-start flex flex-col grow shrink-0 basis-auto self-start"
+                    >
+                      <div class="text-white text-2xl leading-7 self-stretch">
+                        Auto-engaging
+                      </div>
+                      <div
+                        class="text-white text-base font-light leading-6 self-stretch mt-2"
+                      >
+                        with your audience to strengthen your online presence and
+                        profile score
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                class="flex flex-col items-stretch w-[58%] ml-5 max-md:w-full max-md:ml-0"
+              >
+                <div class="mt-4 pr-7 max-md:max-w-full max-md:pr-5">
+                  <div
+                    class="gap-5 flex max-md:flex-col max-md:items-stretch max-md:gap-0"
+                  >
+                    <div
+                      class="flex flex-col items-stretch w-[39%] max-md:w-full max-md:ml-0"
+                    >
+                      
+                    </div>
+                    <div
+                      class="flex flex-col items-stretch w-[61%] ml-5 max-md:w-full max-md:ml-0"
+                    >
+                      <div
+                        class="justify-center items-start self-stretch flex flex-col mt-4 max-md:max-w-full"
+                      >
+                        <div
+                          class="self-stretch text-white text-6xl font-bold leading-[67.2px] max-md:max-w-full max-md:text-4xl"
+                        >
+                          Title Copy Goes Here Be Awesome
+                        </div>
+                        <div
+                          class="self-stretch text-white text-base leading-6 mt-6 max-md:max-w-full"
+                        >
+                          Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                          Suspendisse varius enim in eros elementum tristique. Duis
+                          cursus, mi quis viverra ornare, eros dolor interdum nulla,
+                          ut commodo diam libero vitae erat.
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="items-start self-center flex w-full max-w-screen-xl flex-col mt-64 pt-10 pb-8 px-6 max-md:max-w-full max-md:mt-10 max-md:px-5"
+        >
+          <div
+            class="justify-center items-center self-stretch flex flex-col max-md:max-w-full"
+          >
+            <div
+              class="text-center text-6xl font-bold leading-[61.6px] bg-clip-text self-stretch max-md:max-w-full max-md:text-4xl text-indigo-600"
+            >
+              Proactive and Reactive Modes
+            </div>
+            <div
+              class="self-stretch text-white text-center text-3xl font-medium leading-[54.08px] max-md:max-w-full"
+            >
+              Stay Ahead in the Branding Game Content:
+            </div>
+          </div>
+          <div
+            class="items-start self-stretch flex flex-col mt-20 pt-6 px-20 max-md:max-w-full max-md:mt-10 max-md:px-5"
+          >
+            <div class="self-center flex w-[826px] max-w-full grow flex-col">
+              <div class="self-stretch max-md:max-w-full">
+                <div
+                  class="gap-5 flex max-md:flex-col max-md:items-stretch max-md:gap-0"
+                >
+                  <div
+                    class="flex flex-col items-stretch w-6/12 max-md:w-full max-md:ml-0"
+                  >
+                    <div
+                      class="flex-col items-start overflow-hidden relative flex aspect-[0.882903981264637] grow px-8 py-16 max-md:mt-10 max-md:px-5"
+                    >
+                      <img
+                        loading="lazy"
+                        srcset="..."
+                        class="absolute z-[-1] h-full w-full object-cover object-center inset-0"
+                      />
+                      <div class="relative items-start self-stretch flex flex-col">
+                        <div
+                          class="text-5xl font-semibold leading-10 bg-clip-text text-white self-stretch"
+                        >
+                          Proactive
+                          <span class="text-white">mode:</span>
+                        </div>
+                        <div class="self-stretch text-white text-2xl leading-7 mt-5">
+                          Regularly publish thought pieces and engage with your
+                          audience
+                        </div>
+                      </div>
+                      <div
+                        class="relative text-white text-base font-bold leading-6 uppercase self-stretch whitespace-nowrap items-center shadow-sm bg-indigo-600 w-full mt-32 px-8 py-4 rounded-[30px] max-md:mt-10 max-md:px-5"
+                      >
+                        Choose this mode
+                      </div>
+                    </div>
+                  </div>
+                  <div
+                    class="flex flex-col items-stretch w-6/12 ml-5 max-md:w-full max-md:ml-0"
+                  >
+                    <div
+                      class="flex-col items-start overflow-hidden relative flex aspect-[0.882903981264637] grow px-8 py-16 max-md:mt-10 max-md:px-5"
+                    >
+                      <img
+                        loading="lazy"
+                        srcset="..."
+                        class="absolute z-[-1] h-full w-full object-cover object-center inset-0"
+                      />
+                      <div class="relative items-start self-stretch flex flex-col">
+                        <div
+                          class="text-5xl font-semibold leading-10 bg-clip-text text-white self-stretch"
+                        >
+                          Proactive
+                          <span class="text-white">mode:</span>
+                        </div>
+                        <div class="self-stretch text-white text-2xl leading-7 mt-5">
+                          Regularly publish thought pieces and engage with your
+                          audience
+                        </div>
+                      </div>
+                      <div
+                        class="relative text-white text-base font-bold leading-6 uppercase self-stretch whitespace-nowrap items-center shadow-sm bg-indigo-600 w-full mt-32 px-8 py-4 rounded-[30px] max-md:mt-10 max-md:px-5"
+                      >
+                        Choose this mode
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                class="flex-col items-start overflow-hidden self-stretch relative flex min-h-[347px] grow mt-16 pl-8 pr-20 py-16 max-md:max-w-full max-md:mt-10 max-md:px-5"
+              >
+                <img
+                  loading="lazy"
+                  srcset="..."
+                  class="absolute z-[-1] h-full w-full object-cover object-center inset-0"
+                />
+                <div
+                  class="relative items-start flex w-[700px] max-w-full flex-col self-start"
+                >
+                  <div
+                    class="text-5xl font-semibold leading-8 bg-clip-text text-white self-stretch max-md:max-w-full"
+                  >
+                    Seamlessly
+                    <span class="text-white">switch between modes:</span>
+                  </div>
+                  <div
+                    class="self-stretch text-white text-2xl leading-7 mt-5 max-md:max-w-full"
+                  >
+                    Regularly publish thought pieces and engage with your audience
+                  </div>
+                </div>
+                <div
+                  class="relative text-white text-base font-bold leading-6 uppercase whitespace-nowrap items-center shadow-sm bg-indigo-600 w-[216px] max-w-full mt-24 px-8 py-4 rounded-[30px] self-start max-md:mt-10 max-md:px-5"
+                >
+                  Choose this mode
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="flex-col justify-center items-start self-stretch overflow-hidden relative flex min-h-[2098px] w-full mt-28 p-20 max-md:max-w-full max-md:mt-10 max-md:px-5"
+        >
+          <img
+            loading="lazy"
+            srcset="..."
+            class="absolute z-[-1] h-full w-full object-cover object-center inset-0"
+          />
+          <div
+            class="relative items-center self-stretch flex flex-col pb-16 max-md:max-w-full"
+          >
+            <div
+              class="justify-center items-center self-center flex w-full max-w-6xl flex-col max-md:max-w-full"
+            >
+              <div
+                class="text-center text-6xl font-semibold leading-8 bg-clip-text self-stretch max-md:max-w-full max-md:text-4xl text-indigo-600"
+              >
+                Personalized AI for the Unique You
+                <br />
+              </div>
+              <div
+                class="self-stretch text-white text-center text-3xl font-medium leading-[54.08px] max-md:max-w-full"
+              >
+                Stay One-of-a-Kind Content:
+              </div>
+            </div>
+            <div
+              class="self-stretch mt-16 pr-24 max-md:max-w-full max-md:mt-10 max-md:pr-5"
+            >
+              <div
+                class="gap-5 flex max-md:flex-col max-md:items-stretch max-md:gap-0"
+              >
+                <div
+                  class="flex flex-col items-stretch w-[63%] max-md:w-full max-md:ml-0"
+                >
+                  <img src="Image (1).png" alt="image1">
+                </div>
+                <div
+                  class="flex flex-col items-stretch w-[37%] ml-5 max-md:w-full max-md:ml-0"
+                >
+                  <div
+                    class="justify-center items-start flex flex-col my-auto max-md:mt-10"
+                  >
+                    <div
+                      class="text-indigo-600 text-lg font-medium leading-7 self-stretch"
+                    >
+                      Features
+                    </div>
+                    <div
+                      class="text-5xl font-semibold leading-10 tracking-tighter bg-clip-text text-white self-stretch mt-6"
+                    >
+                      Reflect
+                      <span class="text-white">
+                        your personal style, tone, opinions, experiences, and insights
+                        in your content
+                      </span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              class="self-center w-full max-w-[1182px] mt-32 max-md:max-w-full max-md:mt-10"
+            >
+              <div
+                class="gap-5 flex max-md:flex-col max-md:items-stretch max-md:gap-0"
+              >
+                <div
+                  class="flex flex-col items-stretch w-[45%] max-md:w-full max-md:ml-0"
+                >
+                  <div
+                    class="justify-center items-start flex flex-col my-auto max-md:mt-10"
+                  >
+                    <div
+                      class="text-indigo-600 text-lg font-medium leading-7 self-stretch"
+                    >
+                      Features
+                    </div>
+                    <div
+                      class="text-5xl font-semibold leading-10 tracking-tighter bg-clip-text text-white self-stretch mt-5"
+                    >
+                      Reflect
+                      <span class="text-white">
+                        your personal style, tone, opinions, experiences, and insights
+                        in your content
+                      </span>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="flex flex-col items-stretch w-[55%] ml-5 max-md:w-full max-md:ml-0"
+                >
+                  <img src="Image (1).png" alt="">
+                </div>
+              </div>
+            </div>
+            <div
+              class="self-stretch mt-32 pr-24 max-md:max-w-full max-md:mt-10 max-md:pr-5"
+            >
+              <div
+                class="gap-5 flex max-md:flex-col max-md:items-stretch max-md:gap-0"
+              >
+                <div
+                  class="flex flex-col items-stretch w-[63%] max-md:w-full max-md:ml-0"
+                >
+                  <img src="Image (1).png" alt="">
+                </div>
+                <div
+                  class="flex flex-col items-stretch w-[37%] ml-5 max-md:w-full max-md:ml-0"
+                >
+                  <div
+                    class="justify-center items-start flex flex-col my-auto max-md:mt-10"
+                  >
+                    <div
+                      class="text-indigo-600 text-lg font-medium leading-7 self-stretch"
+                    >
+                      Features
+                    </div>
+                    <div
+                      class="text-5xl font-semibold leading-[50.4px] tracking-tighter bg-clip-text text-white self-stretch mt-6"
+                    >
+                      Custom AI
+                      <span class="text-white">
+                        model tailored for each individual user
+                      </span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="self-stretch w-full mt-14 pr-20 pt-6 max-md:max-w-full max-md:mt-10 max-md:pr-5"
+        >
+          <div class="gap-5 flex max-md:flex-col max-md:items-stretch max-md:gap-0">
+            <div
+              class="flex flex-col items-stretch w-[15%] max-md:w-full max-md:ml-0"
+            >
+            </div>
+            <div
+              class="flex flex-col items-stretch w-[85%] ml-5 max-md:w-full max-md:ml-0"
+            >
+              <div class="items-center flex flex-col max-md:max-w-full max-md:mt-6">
+                <div
+                  class="self-stretch text-center text-6xl font-bold leading-[61.6px] bg-clip-text max-md:max-w-full max-md:text-4xl text-indigo-600"
+                >
+                  Testimonials
+                </div>
+                <div class="self-stretch mt-16 max-md:max-w-full max-md:mt-10">
+                  <div
+                    class="gap-5 flex max-md:flex-col max-md:items-stretch max-md:gap-0"
+                  >
+                    <div
+                      class="flex flex-col items-stretch w-[33%] max-md:w-full max-md:ml-0"
+                    >
+                      <div
+                        class="items-start self-stretch bg-gray-900 flex w-full max-w-[405px] grow flex-col mx-auto p-8 rounded-[30px] max-md:mt-8 max-md:px-5"
+                      >
+                        <div class="self-stretch text-white text-lg leading-7">
+                          “Amet minim mollit non deserunt ullamco est sit aliqua dolor
+                          do amet sint. Velit officia consequat duis enim velit
+                          mollit. Exercitation veniam consequat.”
+                        </div>
+                        <div
+                          class="items-start self-stretch flex gap-4 mt-16 max-md:justify-center max-md:mt-10"
+                        >
+                          <img src="author_image.png" alt="noname">
+                          <div class="items-start self-center flex flex-col my-auto">
+                            <div
+                              class="self-stretch text-white text-sm font-bold leading-5"
+                            >
+                              Author Name
+                            </div>
+                            <div
+                              class="self-stretch text-white text-xs leading-5 mt-1"
+                            >
+                              VP of Company
+                            </div>
+                          </div>
+                          <div
+                            class="items-start self-center flex gap-3 my-auto max-md:justify-center"
+                          >
+                            <img
+                              loading="lazy"
+                              src="https://cdn.builder.io/api/v1/image/assets/TEMP/f2884a21-c14b-44b8-861a-4d7ebb30b800?"
+                              class="aspect-[1.11] object-contain object-center w-full fill-orange-300 overflow-hidden flex-1"
+                            />
+                            <img
+                              loading="lazy"
+                              src="https://cdn.builder.io/api/v1/image/assets/TEMP/871f6315-db06-4e19-a911-3e423934a139?"
+                              class="aspect-[1.11] object-contain object-center w-full fill-orange-300 overflow-hidden flex-1"
+                            />
+                            <img
+                              loading="lazy"
+                              src="https://cdn.builder.io/api/v1/image/assets/TEMP/8bea1c3c-d7cb-47b1-a76d-2322b4fba330?"
+                              class="aspect-[1.17] object-contain object-center w-full fill-orange-300 overflow-hidden flex-1"
+                            />
+                            <img
+                              loading="lazy"
+                              src="https://cdn.builder.io/api/v1/image/assets/TEMP/74bb7eec-d348-4b72-82b9-4fd714f058ce?"
+                              class="aspect-[1.11] object-contain object-center w-full fill-orange-300 overflow-hidden flex-1"
+                            />
+                            <img
+                              loading="lazy"
+                              src="https://cdn.builder.io/api/v1/image/assets/TEMP/5f4f7bcf-cc12-4955-8ed7-4ccc11526b1f?"
+                              class="aspect-[1.11] object-contain object-center w-full fill-orange-300 overflow-hidden flex-1"
+                            />
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div
+                      class="flex flex-col items-stretch w-[33%] ml-5 max-md:w-full max-md:ml-0"
+                    >
+                      <div
+                        class="items-start self-stretch bg-gray-900 flex w-full max-w-[406px] grow flex-col mx-auto p-8 rounded-[30px] max-md:mt-8 max-md:px-5"
+                      >
+                        <div class="self-stretch text-white text-lg leading-7">
+                          “Amet minim mollit non deserunt ullamco est sit aliqua dolor
+                          do amet sint. Velit officia consequat duis enim velit
+                          mollit. Exercitation veniam consequat.”
+                        </div>
+                        <div
+                          class="items-start self-stretch flex gap-4 mt-16 max-md:justify-center max-md:mt-10"
+                        >
+                          <img src="author_image.png" alt="">
+                          <div class="items-start self-center flex flex-col my-auto">
+                            <div
+                              class="self-stretch text-white text-sm font-bold leading-5"
+                            >
+                              Author Name
+                            </div>
+                            <div
+                              class="self-stretch text-white text-xs leading-5 mt-1"
+                            >
+                              VP of Company
+                            </div>
+                          </div>
+                          <div
+                            class="items-start self-center flex gap-3 my-auto max-md:justify-center"
+                          >
+                            <img
+                              loading="lazy"
+                              src="https://cdn.builder.io/api/v1/image/assets/TEMP/f1d991d9-3396-49f2-8282-81d034d34869?"
+                              class="aspect-[1.11] object-contain object-center w-full fill-orange-300 overflow-hidden flex-1"
+                            />
+                            <img
+                              loading="lazy"
+                              src="https://cdn.builder.io/api/v1/image/assets/TEMP/c7c64035-d344-4bda-b4fb-4d92d1d615d0?"
+                              class="aspect-[1.17] object-contain object-center w-full fill-orange-300 overflow-hidden flex-1"
+                            />
+                            <img
+                              loading="lazy"
+                              src="https://cdn.builder.io/api/v1/image/assets/TEMP/685e23c0-7d75-46a9-8a2b-63a2c2d38f3d?"
+                              class="aspect-[1.11] object-contain object-center w-full fill-orange-300 overflow-hidden flex-1"
+                            />
+                            <img
+                              loading="lazy"
+                              src="https://cdn.builder.io/api/v1/image/assets/TEMP/b4c6262b-81df-44b3-8d9f-ef2057086e6a?"
+                              class="aspect-[1.11] object-contain object-center w-full fill-orange-300 overflow-hidden flex-1"
+                            />
+                            <img
+                              loading="lazy"
+                              src="https://cdn.builder.io/api/v1/image/assets/TEMP/2395e2df-39ab-4a53-8b3b-01242d6aef05?"
+                              class="aspect-[1.17] object-contain object-center w-full fill-orange-300 overflow-hidden flex-1"
+                            />
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div
+                      class="flex flex-col items-stretch w-[33%] ml-5 max-md:w-full max-md:ml-0"
+                    >
+                      <div
+                        class="items-start self-stretch bg-gray-900 flex w-full max-w-[405px] grow flex-col mx-auto p-8 rounded-[30px] max-md:mt-8 max-md:px-5"
+                      >
+                        <div class="self-stretch text-white text-lg leading-7">
+                          “Amet minim mollit non deserunt ullamco est sit aliqua dolor
+                          do amet sint. Velit officia consequat duis enim velit
+                          mollit. Exercitation veniam consequat.”
+                        </div>
+                        <div
+                          class="items-start self-stretch flex gap-4 mt-16 max-md:justify-center max-md:mt-10"
+                        >
+                          <img src="author_image.png" alt="">
+                          <div class="items-start self-center flex flex-col my-auto">
+                            <div
+                              class="self-stretch text-white text-sm font-bold leading-5"
+                            >
+                              Author Name
+                            </div>
+                            <div
+                              class="self-stretch text-white text-xs leading-5 mt-1"
+                            >
+                              VP of Company
+                            </div>
+                          </div>
+                          <div
+                            class="items-start self-center flex gap-3 my-auto max-md:justify-center"
+                          >
+                            <img
+                              loading="lazy"
+                              src="https://cdn.builder.io/api/v1/image/assets/TEMP/1b2709f9-b4b2-4b63-a712-fa3a9e804f9e?"
+                              class="aspect-[1.17] object-contain object-center w-full fill-orange-300 overflow-hidden flex-1"
+                            />
+                            <img
+                              loading="lazy"
+                              src="https://cdn.builder.io/api/v1/image/assets/TEMP/1cef1ba4-6f9c-46ab-83b2-2333e08e45a5?"
+                              class="aspect-[1.11] object-contain object-center w-full fill-orange-300 overflow-hidden flex-1"
+                            />
+                            <img
+                              loading="lazy"
+                              src="https://cdn.builder.io/api/v1/image/assets/TEMP/60eb2caf-302f-40f2-a3d2-8df9ca5ce3d9?"
+                              class="aspect-[1.11] object-contain object-center w-full fill-orange-300 overflow-hidden flex-1"
+                            />
+                            <img
+                              loading="lazy"
+                              src="https://cdn.builder.io/api/v1/image/assets/TEMP/294306bb-177c-4c16-88ec-08d15e35da1d?"
+                              class="aspect-[1.17] object-contain object-center w-full fill-orange-300 overflow-hidden flex-1"
+                            />
+                            <img
+                              loading="lazy"
+                              src="https://cdn.builder.io/api/v1/image/assets/TEMP/c2974095-1ee1-40fb-9500-61b5615a2549?"
+                              class="aspect-[1.11] object-contain object-center w-full fill-orange-300 overflow-hidden flex-1"
+                            />
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="self-center w-full max-w-[1171px] mt-20 px-5 max-md:max-w-full max-md:mt-10"
+        >
+          <div class="gap-5 flex max-md:flex-col max-md:items-stretch max-md:gap-0">
+            <div
+              class="flex flex-col items-stretch w-[46%] max-md:w-full max-md:ml-0"
+            >
+              <img src="Image (2).png" alt="image2">
+            </div>
+            <div
+              class="flex flex-col items-stretch w-[54%] ml-5 max-md:w-full max-md:ml-0"
+            >
+              <div
+                class="justify-center items-start self-stretch flex flex-col my-auto max-md:max-w-full max-md:mt-10"
+              >
+                <div
+                  class="text-white text-6xl font-bold leading-[67.2px] self-start max-md:max-w-full max-md:text-4xl"
+                >
+                  Title Copy Goes Here Be Awesome
+                </div>
+                <div
+                  class="text-white text-base leading-6 mt-6 self-start max-md:max-w-full"
+                >
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
+                  varius enim in eros elementum tristique. Duis cursus, mi quis
+                  viverra ornare, eros dolor interdum nulla, ut commodo diam libero
+                  vitae erat.
+                </div>
+                <div
+                  class="text-white text-base font-bold leading-6 tracking-[2px] whitespace-nowrap justify-center items-center border bg-indigo-600 w-[231px] max-w-full grow mt-6 px-6 py-4 rounded-[50px] border-solid border-violet-600 self-start max-md:px-5"
+                >
+                  TALK TO AN EXPERT
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="flex-col justify-center items-start overflow-hidden self-stretch relative flex min-h-[1131px] w-full mt-20 p-20 max-md:max-w-full max-md:mt-10 max-md:px-5"
+        >
+          <img
+            loading="lazy"
+            srcset="..."
+            class="absolute z-[-1] h-full w-full object-cover object-center inset-0"
+          />
+          <div
+            class="relative items-center self-stretch flex flex-col py-10 max-md:max-w-full"
+          >
+            <div
+              class="items-center self-center flex w-full max-w-6xl flex-col max-md:max-w-full"
+            >
+              <div
+                class="text-center text-6xl font-bold leading-[59.4px] bg-clip-text self-stretch max-md:max-w-full max-md:text-4xl text-indigo-600"
+              >
+                Our Plans
+              </div>
+              <div
+                class="self-stretch text-white text-center text-3xl font-medium leading-[54.08px] max-md:max-w-full"
+              >
+                Choose best for you
+              </div>
+            </div>
+            <div class="self-stretch mt-20 max-md:max-w-full max-md:mt-10">
+              <div
+                class="gap-5 flex max-md:flex-col max-md:items-stretch max-md:gap-0"
+              >
+                <div
+                  class="flex flex-col items-stretch w-[33%] max-md:w-full max-md:ml-0"
+                >
+                  <div
+                    class="justify-center items-center border bg-gray-900 flex w-full max-w-sm grow flex-col mx-auto px-8 py-12 rounded-[32px] border-solid border-zinc-800 max-md:mt-10 max-md:px-5"
+                  >
+                    <div
+                      class="items-center self-center flex w-[191px] max-w-full flex-col"
+                    >
+                      <img src="Rectangle 10 (1).png" alt="">
+                      <div
+                        class="text-4xl font-semibold bg-clip-text self-center z-[1] mt-0 whitespace-nowrap text-indigo-600"
+                      >
+                        Startup
+                      </div>
+                      <div
+                        class="text-white text-center text-2xl font-bold leading-6 self-center whitespace-nowrap mt-4"
+                      >
+                        $599/mo
+                      </div>
+                      <div
+                        class="text-white text-xs font-medium leading-4 tracking-[2px] self-stretch whitespace-nowrap justify-center items-center border bg-indigo-600 w-full grow mt-4 px-6 py-4 rounded-[50px] border-solid border-violet-600 max-md:px-5"
+                      >
+                        TALK TO AN EXPERT
+                      </div>
+                    </div>
+                    <div
+                      class="items-start self-stretch bg-neutral-100 flex w-full h-px flex-col mt-6"
+                    ></div>
+                    <div
+                      class="items-center self-center flex w-[212px] max-w-full flex-col mt-6 py-0.5"
+                    >
+                      <div
+                        class="items-start self-stretch flex justify-between gap-2.5"
+                      >
+                        <img
+                          loading="lazy"
+                          src="https://cdn.builder.io/api/v1/image/assets/TEMP/334ec271-f63b-4642-9f0a-eaf0a2cb2c06?"
+                          class="aspect-square object-contain object-center w-5 fill-indigo-50 overflow-hidden self-stretch max-w-full"
+                        />
+                        <div
+                          class="text-white text-sm leading-5 self-stretch whitespace-nowrap"
+                        >
+                          Lorem ipsum dolor sit amet
+                        </div>
+                      </div>
+                      <div
+                        class="items-start self-stretch flex justify-between gap-2.5 mt-5"
+                      >
+                        <img
+                          loading="lazy"
+                          src="https://cdn.builder.io/api/v1/image/assets/TEMP/514d8e48-02c6-4770-8fc7-7309f9298437?"
+                          class="aspect-square object-contain object-center w-5 fill-indigo-50 overflow-hidden self-stretch max-w-full"
+                        />
+                        <div
+                          class="text-white text-sm leading-5 self-stretch whitespace-nowrap"
+                        >
+                          Lorem ipsum dolor sit amet
+                        </div>
+                      </div>
+                      <div
+                        class="items-start self-stretch flex justify-between gap-2.5 mt-5"
+                      >
+                        <img
+                          loading="lazy"
+                          src="https://cdn.builder.io/api/v1/image/assets/TEMP/c89360ac-961f-4405-a9c5-1a9c45fb8a25?"
+                          class="aspect-square object-contain object-center w-5 fill-indigo-50 overflow-hidden self-stretch max-w-full"
+                        />
+                        <div
+                          class="text-white text-sm leading-5 self-stretch whitespace-nowrap"
+                        >
+                          Lorem ipsum dolor sit amet
+                        </div>
+                      </div>
+                      <div
+                        class="items-start self-stretch flex justify-between gap-2.5 mt-5"
+                      >
+                        <img
+                          loading="lazy"
+                          src="https://cdn.builder.io/api/v1/image/assets/TEMP/e65511ea-885a-46a5-afa5-f3a1ca6b2096?"
+                          class="aspect-square object-contain object-center w-5 fill-indigo-50 overflow-hidden self-stretch max-w-full"
+                        />
+                        <div
+                          class="text-white text-sm leading-5 self-stretch whitespace-nowrap"
+                        >
+                          Lorem ipsum dolor sit amet
+                        </div>
+                      </div>
+                      <div
+                        class="items-start self-stretch flex justify-between gap-2.5 mt-5"
+                      >
+                        <img
+                          loading="lazy"
+                          src="https://cdn.builder.io/api/v1/image/assets/TEMP/ae33c2a8-bb81-4d91-a70e-2f14d139cfc5?"
+                          class="aspect-square object-contain object-center w-5 fill-indigo-50 overflow-hidden self-stretch max-w-full"
+                        />
+                        <div
+                          class="text-white text-sm leading-5 self-stretch whitespace-nowrap"
+                        >
+                          Lorem ipsum dolor sit amet
+                        </div>
+                      </div>
+                      <div
+                        class="items-start self-stretch flex justify-between gap-2.5 mt-5"
+                      >
+                        <img
+                          loading="lazy"
+                          src="https://cdn.builder.io/api/v1/image/assets/TEMP/e3c78f7a-8879-437d-9559-4e2de25494fe?"
+                          class="aspect-square object-contain object-center w-5 fill-indigo-50 overflow-hidden self-stretch max-w-full"
+                        />
+                        <div
+                          class="text-white text-sm leading-5 self-stretch whitespace-nowrap"
+                        >
+                          Lorem ipsum dolor sit amet
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="flex flex-col items-stretch w-[33%] ml-5 max-md:w-full max-md:ml-0"
+                >
+                  <div
+                    class="justify-center items-center border bg-gray-900 flex w-full max-w-sm grow flex-col mx-auto px-8 py-12 rounded-[32px] border-solid border-zinc-800 max-md:mt-10 max-md:px-5"
+                  >
+                    <div
+                      class="items-center self-center flex w-[191px] max-w-full flex-col"
+                    >
+                      <img src="Rectangle 10 (1).png" alt="">
+                      <div
+                        class="text-4xl font-semibold bg-clip-text self-center z-[1] mt-0 whitespace-nowrap text-indigo-600"
+                      >
+                        Startup
+                      </div>
+                      <div
+                        class="text-white text-center text-2xl font-bold leading-6 self-center whitespace-nowrap mt-4"
+                      >
+                        $599/mo
+                      </div>
+                      <div
+                        class="text-white text-xs font-medium leading-4 tracking-[2px] self-stretch whitespace-nowrap justify-center items-center border bg-indigo-600 w-full grow mt-4 px-6 py-4 rounded-[50px] border-solid border-violet-600 max-md:px-5"
+                      >
+                        TALK TO AN EXPERT
+                      </div>
+                    </div>
+                    <div
+                      class="items-start self-stretch bg-neutral-100 flex w-full h-px flex-col mt-6"
+                    ></div>
+                    <div
+                      class="items-center self-center flex w-[212px] max-w-full flex-col mt-6 py-0.5"
+                    >
+                      <div
+                        class="items-start self-stretch flex justify-between gap-2.5"
+                      >
+                        <img
+                          loading="lazy"
+                          src="https://cdn.builder.io/api/v1/image/assets/TEMP/752e42b7-f02d-40ce-8f49-a875aced8c38?"
+                          class="aspect-square object-contain object-center w-5 fill-indigo-50 overflow-hidden self-stretch max-w-full"
+                        />
+                        <div
+                          class="text-white text-sm leading-5 self-stretch whitespace-nowrap"
+                        >
+                          Lorem ipsum dolor sit amet
+                        </div>
+                      </div>
+                      <div
+                        class="items-start self-stretch flex justify-between gap-2.5 mt-5"
+                      >
+                        <img
+                          loading="lazy"
+                          src="https://cdn.builder.io/api/v1/image/assets/TEMP/317c564d-56a0-432e-9e4a-4333aa4211c7?"
+                          class="aspect-square object-contain object-center w-5 fill-indigo-50 overflow-hidden self-stretch max-w-full"
+                        />
+                        <div
+                          class="text-white text-sm leading-5 self-stretch whitespace-nowrap"
+                        >
+                          Lorem ipsum dolor sit amet
+                        </div>
+                      </div>
+                      <div
+                        class="items-start self-stretch flex justify-between gap-2.5 mt-5"
+                      >
+                        <img
+                          loading="lazy"
+                          src="https://cdn.builder.io/api/v1/image/assets/TEMP/47aaadfb-c0cc-4dcd-babf-33450e86409e?"
+                          class="aspect-square object-contain object-center w-5 fill-indigo-50 overflow-hidden self-stretch max-w-full"
+                        />
+                        <div
+                          class="text-white text-sm leading-5 self-stretch whitespace-nowrap"
+                        >
+                          Lorem ipsum dolor sit amet
+                        </div>
+                      </div>
+                      <div
+                        class="items-start self-stretch flex justify-between gap-2.5 mt-5"
+                      >
+                        <img
+                          loading="lazy"
+                          src="https://cdn.builder.io/api/v1/image/assets/TEMP/d30efc85-4dba-4120-986d-a320b6a869a4?"
+                          class="aspect-square object-contain object-center w-5 fill-indigo-50 overflow-hidden self-stretch max-w-full"
+                        />
+                        <div
+                          class="text-white text-sm leading-5 self-stretch whitespace-nowrap"
+                        >
+                          Lorem ipsum dolor sit amet
+                        </div>
+                      </div>
+                      <div
+                        class="items-start self-stretch flex justify-between gap-2.5 mt-5"
+                      >
+                        <img
+                          loading="lazy"
+                          src="https://cdn.builder.io/api/v1/image/assets/TEMP/5fdf93b1-903d-49e5-b17d-4a07d3395765?"
+                          class="aspect-square object-contain object-center w-5 fill-indigo-50 overflow-hidden self-stretch max-w-full"
+                        />
+                        <div
+                          class="text-white text-sm leading-5 self-stretch whitespace-nowrap"
+                        >
+                          Lorem ipsum dolor sit amet
+                        </div>
+                      </div>
+                      <div
+                        class="items-start self-stretch flex justify-between gap-2.5 mt-5"
+                      >
+                        <img
+                          loading="lazy"
+                          src="https://cdn.builder.io/api/v1/image/assets/TEMP/f43d8b2d-5da8-41ad-8d56-f2088ebb57b6?"
+                          class="aspect-square object-contain object-center w-5 fill-indigo-50 overflow-hidden self-stretch max-w-full"
+                        />
+                        <div
+                          class="text-white text-sm leading-5 self-stretch whitespace-nowrap"
+                        >
+                          Lorem ipsum dolor sit amet
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="flex flex-col items-stretch w-[33%] ml-5 max-md:w-full max-md:ml-0"
+                >
+                  <div
+                    class="justify-center items-center border bg-gray-900 flex w-full max-w-sm grow flex-col mx-auto px-8 py-12 rounded-[32px] border-solid border-zinc-800 max-md:mt-10 max-md:px-5"
+                  >
+                    <div
+                      class="items-center self-center flex w-[191px] max-w-full flex-col"
+                    >
+                      <img src="Rectangle 10 (1).png" alt="">
+                      <div
+                        class="text-4xl font-semibold bg-clip-text self-center z-[1] mt-0 whitespace-nowrap text-indigo-600"
+                      >
+                        Startup
+                      </div>
+                      <div
+                        class="text-white text-center text-2xl font-bold leading-6 self-center whitespace-nowrap mt-4"
+                      >
+                        $599/mo
+                      </div>
+                      <div
+                        class="text-white text-xs font-medium leading-4 tracking-[2px] self-stretch whitespace-nowrap justify-center items-center border bg-indigo-600 w-full grow mt-4 px-6 py-4 rounded-[50px] border-solid border-violet-600 max-md:px-5"
+                      >
+                        TALK TO AN EXPERT
+                      </div>
+                    </div>
+                    <div
+                      class="items-start self-stretch bg-neutral-100 flex w-full h-px flex-col mt-6"
+                    ></div>
+                    <div
+                      class="items-center self-center flex w-[212px] max-w-full flex-col mt-6 py-0.5"
+                    >
+                      <div
+                        class="items-start self-stretch flex justify-between gap-2.5"
+                      >
+                        <img
+                          loading="lazy"
+                          src="https://cdn.builder.io/api/v1/image/assets/TEMP/e7233677-2269-401a-9148-30832310b033?"
+                          class="aspect-square object-contain object-center w-5 fill-indigo-50 overflow-hidden self-stretch max-w-full"
+                        />
+                        <div
+                          class="text-white text-sm leading-5 self-stretch whitespace-nowrap"
+                        >
+                          Lorem ipsum dolor sit amet
+                        </div>
+                      </div>
+                      <div
+                        class="items-start self-stretch flex justify-between gap-2.5 mt-5"
+                      >
+                        <img
+                          loading="lazy"
+                          src="https://cdn.builder.io/api/v1/image/assets/TEMP/c7d1530c-0cd2-4fa3-a101-63e0f8b50a37?"
+                          class="aspect-square object-contain object-center w-5 fill-indigo-50 overflow-hidden self-stretch max-w-full"
+                        />
+                        <div
+                          class="text-white text-sm leading-5 self-stretch whitespace-nowrap"
+                        >
+                          Lorem ipsum dolor sit amet
+                        </div>
+                      </div>
+                      <div
+                        class="items-start self-stretch flex justify-between gap-2.5 mt-5"
+                      >
+                        <img
+                          loading="lazy"
+                          src="https://cdn.builder.io/api/v1/image/assets/TEMP/64f8719f-d058-48ee-a8a9-5bfd168b39ce?"
+                          class="aspect-square object-contain object-center w-5 fill-indigo-50 overflow-hidden self-stretch max-w-full"
+                        />
+                        <div
+                          class="text-white text-sm leading-5 self-stretch whitespace-nowrap"
+                        >
+                          Lorem ipsum dolor sit amet
+                        </div>
+                      </div>
+                      <div
+                        class="items-start self-stretch flex justify-between gap-2.5 mt-5"
+                      >
+                        <img
+                          loading="lazy"
+                          src="https://cdn.builder.io/api/v1/image/assets/TEMP/cd52c704-d3c5-4d0e-a0c9-a3c861641bf3?"
+                          class="aspect-square object-contain object-center w-5 fill-indigo-50 overflow-hidden self-stretch max-w-full"
+                        />
+                        <div
+                          class="text-white text-sm leading-5 self-stretch whitespace-nowrap"
+                        >
+                          Lorem ipsum dolor sit amet
+                        </div>
+                      </div>
+                      <div
+                        class="items-start self-stretch flex justify-between gap-2.5 mt-5"
+                      >
+                        <img
+                          loading="lazy"
+                          src="https://cdn.builder.io/api/v1/image/assets/TEMP/7647d1eb-121c-40f9-93db-1e79a3e7c577?"
+                          class="aspect-square object-contain object-center w-5 fill-indigo-50 overflow-hidden self-stretch max-w-full"
+                        />
+                        <div
+                          class="text-white text-sm leading-5 self-stretch whitespace-nowrap"
+                        >
+                          Lorem ipsum dolor sit amet
+                        </div>
+                      </div>
+                      <div
+                        class="items-start self-stretch flex justify-between gap-2.5 mt-5"
+                      >
+                        <img
+                          loading="lazy"
+                          src="https://cdn.builder.io/api/v1/image/assets/TEMP/cf527acd-ecdf-418d-b861-21fd93482b06?"
+                          class="aspect-square object-contain object-center w-5 fill-indigo-50 overflow-hidden self-stretch max-w-full"
+                        />
+                        <div
+                          class="text-white text-sm leading-5 self-stretch whitespace-nowrap"
+                        >
+                          Lorem ipsum dolor sit amet
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="flex-col justify-end items-center self-stretch overflow-hidden relative flex min-h-[521px] w-full px-20 py-32 max-md:max-w-full max-md:px-5 max-md:py-24"
+        >
+          <img
+            loading="lazy"
+            srcset="..."
+            class="absolute z-[-1] h-full w-full object-cover object-center inset-0"
+          />
+          <div
+            class="relative items-center self-stretch flex flex-col -mb-6 max-md:max-w-full max-md:mb-2.5"
+          >
+            <div
+              class="self-stretch text-white text-center text-6xl font-bold leading-[60px] bg-clip-text max-md:max-w-full max-md:text-4xl max-md:leading-[49px]"
+            >
+              <span class="text-white">
+                Get Started with
+                <br />
+              </span>
+              AI startup tool
+            </div>
+            <div
+              class="self-stretch text-white text-center text-2xl font-medium leading-8 mt-6 max-md:max-w-full"
+            >
+              Originator is currently an invite only platform .
+              <br />
+              If you don’t have an invite - signup for out waiting list
+            </div>
+            <div
+              class="text-white text-xs font-medium leading-4 tracking-[2px] self-center whitespace-nowrap justify-center items-center border bg-indigo-600 w-[200px] max-w-full grow mt-6 px-6 py-4 rounded-[50px] border-solid border-violet-600 max-md:px-5"
+            >
+              TALK TO AN EXPERT
+            </div>
+          </div>
+        </div>
+        <div
+          class="items-center self-center flex w-full max-w-screen-xl flex-col mt-20 max-md:max-w-full max-md:mt-10"
+        >
+          <div class="self-stretch px-5 max-md:max-w-full">
+            <div class="gap-5 flex max-md:flex-col max-md:items-stretch max-md:gap-0">
+              <div
+                class="flex flex-col items-stretch w-[22%] max-md:w-full max-md:ml-0"
+              >
+                <div
+                  class="text-2xl font-semibold leading-8 bg-clip-text w-full mx-auto max-md:mt-10 text-indigo-600"
+                >
+                  AI startup
+                </div>
+              </div>
+              <div
+                class="flex flex-col items-stretch w-[78%] ml-5 max-md:w-full max-md:ml-0"
+              >
+                <div class="grow max-md:max-w-full max-md:mt-10">
+                  <div
+                    class="gap-5 flex max-md:flex-col max-md:items-stretch max-md:gap-0"
+                  >
+                    <div
+                      class="flex flex-col items-stretch w-[33%] max-md:w-full max-md:ml-0"
+                    >
+                      <div class="items-start flex grow flex-col pb-2 max-md:mt-8">
+                        <div
+                          class="self-stretch text-white text-sm font-bold leading-5"
+                        >
+                          COMPANY
+                        </div>
+                        <div class="items-start self-stretch flex flex-col mt-8">
+                          <div
+                            class="text-white text-sm leading-5 self-stretch whitespace-nowrap"
+                          >
+                            How it works
+                          </div>
+                          <div
+                            class="text-white text-sm leading-5 self-stretch whitespace-nowrap mt-4"
+                          >
+                            Pricing
+                          </div>
+                          <div
+                            class="text-white text-sm leading-5 self-stretch whitespace-nowrap mt-4"
+                          >
+                            Demo
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div
+                      class="flex flex-col items-stretch w-[33%] ml-5 max-md:w-full max-md:ml-0"
+                    >
+                      <div class="items-start flex grow flex-col pb-2 max-md:mt-8">
+                        <div
+                          class="self-stretch text-white text-sm font-bold leading-5"
+                        >
+                          RESOURCES
+                        </div>
+                        <div class="items-start self-stretch flex flex-col mt-8">
+                          <div
+                            class="text-white text-sm leading-5 self-stretch whitespace-nowrap"
+                          >
+                            Blog post name goes here
+                          </div>
+                          <div
+                            class="text-white text-sm leading-5 self-stretch whitespace-nowrap mt-4"
+                          >
+                            Blog post name goes here
+                          </div>
+                          <div
+                            class="text-white text-sm leading-5 self-stretch whitespace-nowrap mt-4"
+                          >
+                            See all resources
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div
+                      class="flex flex-col items-stretch w-[33%] ml-5 max-md:w-full max-md:ml-0"
+                    >
+                      <div class="items-start flex flex-col pb-2 max-md:mt-8">
+                        <div
+                          class="self-stretch text-white text-sm font-bold leading-5"
+                        >
+                          ABOUT
+                        </div>
+                        <div class="items-start self-stretch flex flex-col mt-8">
+                          <div
+                            class="text-white text-sm leading-5 self-stretch whitespace-nowrap"
+                          >
+                            Terms & Conditions
+                          </div>
+                          <div
+                            class="text-white text-sm leading-5 self-stretch whitespace-nowrap mt-4"
+                          >
+                            Privacy Policy
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="text-white text-center text-sm leading-5 self-stretch justify-center items-center grow mt-8 p-6 border-t-white border-t border-solid max-md:max-w-full max-md:px-5"
+          >
+            Copyright © 2022 Company name
+          </div>
+        </div>
+        <div
+          class="self-stretch text-white text-center text-5xl font-medium leading-[60px] w-full mt-20 mb-10 max-md:max-w-full max-md:text-4xl max-md:mt-10"
+        >
+          Your Personal AI-Powered Branding Expert
+        </div>
+      </div>
+      
+</body>
+</html>
